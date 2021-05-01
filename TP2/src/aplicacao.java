@@ -1,4 +1,4 @@
-import java.text.ParseException;
+/*import java.text.ParseException;
 import java.io.IOException;
 
 import java.io.BufferedReader;
@@ -177,4 +177,4 @@ public class aplicacao {
 			string += "-01";
 		return new SimpleDateFormat("yyyy-MM-dd").parse(string);
 	}
-}
+}*/
